@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-    <img alt="Letmeask" title="Letmeask" src="./src/assets/images/cover.svg" />
+    <img alt="Letmeask" title="Letmeask" src="./cover.svg" />
 </h1>
 
 <br>
